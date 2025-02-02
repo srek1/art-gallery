@@ -8,4 +8,24 @@ body {
 header {
         background-color:#00d812;
         height:200px;
+        text-color:white;
+        text-align:center;
+}
+.nav a {
+      text-align:center;
+      color: white; 
+      height: 20px;
+      padding: 5px 5px;
+.nav a:hover {
+              background-color:white;
+}
+}
+</style> 
+<header> 
+<h1> Sree's art gallery </h1> 
+<div id ="nav a"> 
+<h3> Recent </h3>
+</div> 
+</header>
+            
 
